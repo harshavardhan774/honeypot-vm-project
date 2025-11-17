@@ -26,8 +26,6 @@ look up the attackers Geolocation information and plot it on an Azure Sentinel M
 
 - <b>ipgeolocation.io:</b> IP Address to Geolocation API
 
-## Report  
-[ report](https://github.com/xspatrian/honeypot-vm/raw/main/honeypot_report.pdf)
 
 
 ## World map of incoming attacks after 24 hours (geodata) 
